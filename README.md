@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @benjamin-bourez
-- 👀 I’m interested in IA, Mobile Dev.
-- 🌱 I’m currently learning C.
+- 👀 I’m interested in web, Mobile Dev.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me benjamin-bourez@epitech.eu
